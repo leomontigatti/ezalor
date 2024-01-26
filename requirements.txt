@@ -1,0 +1,10 @@
+django
+python-decouple
+wheel
+pillow
+django-cleanup
+celery
+celery[redis]
+django-celery-results
+requests
+beautifulsoup4
